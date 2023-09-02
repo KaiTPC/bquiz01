@@ -1,0 +1,7 @@
+<?php
+
+$BASEDIR=$_SERVER['DOCUMENT_ROOT'];
+$BASEDIR=__DIR__
+echo $BASEDIR
+
+?>
